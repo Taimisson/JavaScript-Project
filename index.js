@@ -29,11 +29,11 @@ while (menu !== 5) {
       buscarDadosData();
       break;
       case 5 :
-        alert("Obrigado por acessar o sistema")
+        alert("Programa finalizado, volte sempre!")
         break;
     default:
       
-        alert("Não existe essa opção de menu!!");
+        alert("Opção não encontrada, tente novamente!");
       break;
 
   }
