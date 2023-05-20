@@ -1,3 +1,4 @@
+// Variáveis
 let menu;
 const doadoresSangue = [];
 
